@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV.tech | IA & Sistemas Mobile</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Fira+Code&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="particles-js"></div>
+
+    <a href="#main-content" class="skip-link">Pular para o conteúdo</a>
+
+    <nav id="navbar" role="navigation" aria-label="Menu Principal">
+        <div class="logo">Cristian Vanzuita<span>&gt;</span></div>
+        <button class="mobile-menu" aria-label="Abrir menu" aria-expanded="false">
+            <i class="fas fa-bars"></i>
+        </button>
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#skills">Stack</a></li>
+            <li><a href="#projects">Projetos</a></li>
+            <li><a href="#contact">Contato</a></li>
+        </ul>
+    </nav>
+
+    <main id="main-content">
+        <header id="home" class="hero">
+            <div class="hero-content">
+                <h1>Eu desenvolvo <span id="typing-text" aria-live="polite"></span></h1>
+                <p>Transformando dados complexos em soluções de IA.</p> 
+                <div class="hero-btns">
+                    <a href="#projects" class="btn btn-primary">Ver Portfólio</a>
+                    <a href="#contact" class="btn btn-outline">Contato</a>
+                </div>
+            </div>
+        </header>
+
+        <section id="skills" aria-labelledby="skills-title">
+            <h2 id="skills-title">Core Business & Tech Stack</h2>
+            <div class="grid-container" id="skills-grid"></div>
+        </section>
+
+        <section id="projects" aria-labelledby="projects-title">
+            <h2 id="projects-title">Projetos em Destaque</h2>
+            <div class="filter-wrapper">
+                <button class="filter-btn active" data-filter="all">Todos</button>
+                <button class="filter-btn" data-filter="ia">Inteligência Artificial</button>
+                <button class="filter-btn" data-filter="mobile">Sistemas Mobile</button>
+            </div>
+            <div id="projects-grid" class="grid-container"></div>
+        </section>
+    </main>
+
+    <footer id="contact">
+        <div class="footer-content">
+            <h3>Vamos construir o futuro?</h3>
+            <div class="social-icons">
+                <a href="https://github.com/vanzui37" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://wa.me/5547984138476" target="_blank" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+                <a href="mailto:vanzuita3000@gmail.com" aria-label="E-mail"><i class="fas fa-envelope"></i></a>
+            </div>
+            <p class="contact-info">vanzuita3000@gmail.com | (47) 98413-8476</p>
+            <p class="copy">&copy; 2026 Cristian Vanzuita - Engenharia de Software & IA</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
