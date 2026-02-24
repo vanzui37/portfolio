@@ -4,10 +4,10 @@ Este repositório contém o código-fonte do meu portfólio profissional, focado
 
 ---
 
-## Perfil Profissional
-Meu nome é **Cristian Vanzuita**, resido em Timbó/SC e atualmente atuo como **Agente Fiscal**. Minha trajetória é marcada pelo compromisso com o serviço público e pela busca constante de inovação tecnológica. 
+## 👨‍💻 Perfil Profissional
+Meu nome é **Cristian Vanzuita**, graduado em **Ciência de Dados** e **Gestão Pública**. Com sólida base em **Estatística**, possuo um histórico de alto desempenho em concursos públicos, com aprovações na **Polícia Federal**, **1º lugar no IGP-SC**, duas vezes **1º lugar na CASAN** e **4º lugar no CREA-SC**, onde atuo como Agente Fiscal.
 
-Atualmente, estou em transição de carreira para a área de TI, com foco em **Engenharia de Software e IA**, desenvolvendo soluções robustas em .NET e Python para desafios complexos.
+Atualmente, foco no desenvolvimento de soluções de **IA e Engenharia de Software**, preparando-me para desafios de grande escala no setor público e tecnológico.
 
 ---
 

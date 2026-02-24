@@ -43,9 +43,9 @@ const CONFIG = {
 
     techStack: [
         { 
-            category: "IA & Data Science", 
-            tools: "Python, Pandas, Scikit-Learn, NLP, Computer Vision", 
-            icon: "fa-brain" 
+        category: "IA & Data Science", 
+        tools: "Python, Pandas, Scikit-Learn, Estatística, NLP, Computer Vision", 
+        icon: "fa-brain" 
         },
         { 
             category: "Back-end & DB", 
