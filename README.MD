@@ -5,7 +5,7 @@ Este repositório contém o código-fonte do meu portfólio profissional, focado
 ---
 
 ## 👨‍💻 Perfil Profissional
-Meu nome é **Cristian Vanzuita**, graduado em **Ciência de Dados** e **Gestão Pública**. Com sólida base em **Estatística**, possuo um histórico de alto desempenho em concursos públicos, com aprovações na **Polícia Federal**, **1º lugar no IGP-SC**, duas vezes **1º lugar na CASAN** e **4º lugar no CREA-SC**, onde atuo como Agente Fiscal.
+Meu nome é **Cristian Vanzuita**, graduado em **Ciências da Computação** e **Gestão Pública**. Com sólida base em **Estatística**, possuo um histórico de alto desempenho em concursos públicos, com aprovações na **Polícia Federal**, **1º lugar no IGP-SC**, duas vezes **1º lugar na CASAN** e **4º lugar no CREA-SC**, onde atuo como Agente Fiscal.
 
 Atualmente, foco no desenvolvimento de soluções de **IA e Engenharia de Software**, preparando-me para desafios de grande escala no setor público e tecnológico.
 
