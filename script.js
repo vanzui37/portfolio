@@ -42,9 +42,21 @@ const CONFIG = {
     ],
 
     techStack: [
-        { category: "IA & Data Science", tools: "Python, Pandas, Scikit-Learn, NLP, Computer Vision", icon: "fa-brain" },
-        { category: "Back-end & DB", tools: ".NET Core, C#, SQL Server (T-SQL)", icon: "fa-server" },
-        { category: "Front-end", tools: "HTML5, CSS3, JavaScript (ES6+)", icon: "fa-code" }
+        { 
+            category: "IA & Data Science", 
+            tools: "Python, Pandas, Scikit-Learn, NLP, Computer Vision", 
+            icon: "fa-brain" 
+        },
+        { 
+            category: "Back-end & DB", 
+            tools: ".NET Core, C#, SQL Server (T-SQL), Clean Architecture", 
+            icon: "fa-server" 
+        },
+        { 
+            category: "Soft Skills & Comportamental", 
+            tools: "Pensamento Analítico, Ética Pública, Resolução de Problemas, Aprendizado Contínuo", 
+            icon: "fa-users-gear" 
+        }
     ]
 };
 
